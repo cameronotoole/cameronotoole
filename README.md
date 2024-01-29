@@ -1,17 +1,31 @@
-### Hi there 👋
+![banner with 'cameron o'toole' written on it](./CAMERON%20O’TOOLE.jpg)
+
+
+### Hi my name is Cameron 👋
+
+- 📝Student
+- 😄 Pronouns: He/Him 
+- 🌱 I’m currently learning JavaScript, TypeScript, and strengthening my HTML/CSS skills
+- 🤔 I'm always open to learn new tips and tricks, or just new things overall
+- 🔭 I’m currently working on 10 mini HTML/CSS projects to keep the dust off
+- ⌨️ Mechanical Keyboard collector
+
+
+
+
 
 <!--
 **cameronotoole/cameronotoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
+
+
 - 👯 I’m looking to collaborate on .
-- 🤔 I’m looking for help with 
+
 - 💬 Ask me about 
 - 📫 How to reach me
-- 😄 Pronouns: 
+
 - ⚡ Fun fact: 
-<a href="https://app.daily.dev/cameronotoole"><img src="https://api.daily.dev/devcards/5615dbcdf551427a9c33d261e68ab600.png?r=47m" width="400" alt="Cameron O'Toole's Dev Card"/></a>
+
 -->
