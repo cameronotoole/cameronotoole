@@ -10,4 +10,4 @@
 - 🔭 I’m currently working on: 😴
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff 
-- https://www.codewars.com/users/cameronotoole/badges/small
+
